@@ -1,4 +1,4 @@
-I. Branch Master
+II. This is Branch NovelLight
 Chapter 1
 - We meet Nick, Tom , Daisy, and Jordan 
 - Các thay đổi để commit ( dòng 2)
