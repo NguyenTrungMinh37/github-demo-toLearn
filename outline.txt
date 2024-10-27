@@ -1,4 +1,4 @@
-I. Branch Master
+II. This is Branch NovelLight
 Chapter 1
 - We meet Nick, Tom , Daisy, and Jordan 
 - Các thay đổi để commit ( dòng 2)
@@ -10,3 +10,5 @@ Mây trắng bay, trời trong xanh thanh mát,
 
 - Chapter 2 : Ngày 27-10-2024
 + Sử dụng lệnh git commit -a -m 
+- Chapter 2 :
+- Đoạn văn này dùng để xem các thay đổi sau khi merge 
