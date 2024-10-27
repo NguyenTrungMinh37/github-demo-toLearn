@@ -7,3 +7,7 @@ Mùa thu về lá vàng rơi lác đác,
 Gió se lạnh thổi thoảng khắp muôn nơi.
 Mây trắng bay, trời trong xanh thanh mát,
 Ánh nắng vàng len lỏi nhẹ nhàng rơi
+
+
+- Chapter 2 : 
+- Đoạn văn dùng để test thì merge 2 nhánh commic vào nhánh novelNew
