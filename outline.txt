@@ -12,3 +12,7 @@ Mây trắng bay, trời trong xanh thanh mát,
 + Sử dụng lệnh git commit -a -m 
 - Chapter 2 :
 - Đoạn văn này dùng để xem các thay đổi sau khi merge 
+
+
+- Chapter 3 :
+- Đoạn văn này dùng để test lệnh git checkout HEAD <file>
