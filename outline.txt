@@ -7,3 +7,6 @@ Mùa thu về lá vàng rơi lác đác,
 Gió se lạnh thổi thoảng khắp muôn nơi.
 Mây trắng bay, trời trong xanh thanh mát,
 Ánh nắng vàng len lỏi nhẹ nhàng rơi
+
+- Chapter 2 :
+- Đoạn văn này dùng để xem các thay đổi sau khi merge 
