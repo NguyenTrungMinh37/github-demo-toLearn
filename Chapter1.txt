@@ -1,4 +1,4 @@
-II. This is Branch NovelLight
+III. This is Branch Comic
 Chapter1 : 
 - Ngày 22/10/2024 : Learn github :))
 - In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
@@ -63,3 +63,17 @@ The younger of the two was a stranger to me. She was extended full length at her
 
 - Chapter 2 :
 - Đoạn văn này dùng để xem các thay đổi sau khi merge 
+
+
+
+
+
+
+
+
+
+
+
+
+- Chapter 3 comic: 
+- Đoạn văn dùng để test thì merge 2 nhánh commic vào nhánh novelNew
