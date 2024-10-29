@@ -17,4 +17,5 @@ Mây trắng bay, trời trong xanh thanh mát,
 - Chapter 3 :
 - Đoạn văn này dùng để test lệnh git checkout HEAD <file>
 
-- 
+- Chapter 4 : Ngày 29-10-2024
+ 
