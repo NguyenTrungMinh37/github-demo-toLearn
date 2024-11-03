@@ -40,3 +40,5 @@ Anh em như thể tay chân
 IV Tục ngữ
 
 V This Chapter Add by Raspberry Pi 4
+VI Tạo pull request trên Raspberry Pi 4
+
