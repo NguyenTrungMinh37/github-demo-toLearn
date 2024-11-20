@@ -26,3 +26,6 @@ Mây trắng bay, trời trong xanh thanh mát,
 
 - Chapter 3 comic: 
 - Đoạn văn dùng để test thì merge 2 nhánh commic vào nhánh novelNew
+
+
+- Add chapter I Naruto 
