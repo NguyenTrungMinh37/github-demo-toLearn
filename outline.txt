@@ -31,3 +31,4 @@ Mây trắng bay, trời trong xanh thanh mát,
 - Add chapter I Naruto 
 - Add chapter II Sasuke
 - Add chapter III Kakashi
+- Add chapter IV Minato
