@@ -29,6 +29,10 @@ Mây trắng bay, trời trong xanh thanh mát,
 
 
 - Add chapter I Naruto 
++ 1. Hành trình của Naruto
 - Add chapter II Sasuke
++ 2. Hành trình của Sasuke
 - Add chapter III Kakashi
++ 3. Hành trình của Kakashi
 - Add chapter IV Minato
++ 4. Hành trình của Minato
