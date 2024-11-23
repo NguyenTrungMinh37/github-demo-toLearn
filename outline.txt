@@ -36,3 +36,5 @@ Mây trắng bay, trời trong xanh thanh mát,
 + 3. Hành trình của Kakashi
 - Add chapter IV Minato
 + 4. Hành trình của Minato
+- Add chaptrer V Obito
++ 5. Hành trình của Obito
